@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @phfvilll
 - 👀 I’m interested in .NET
 - 🌱 I’m currently learning C#
-- 💞️ I’m looking to collaborate on the backend of Applications (Desktop,Web,Cloud,Mobile) within the .NET ecosystem 
+- 💞️ I’m looking to collaborate on the backend of applications within the .NET ecosystem (desktop, web, cloud, mobile)
 - 📫 How to reach me: phfvilll@gmail.com
 
 <!---<
